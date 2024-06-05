@@ -7,9 +7,10 @@
 
 ```
 authV3_initial_contribution.zkey:8a2c9938e0e4321354b58d91e4176be69e39677c9faed2d7d82d6959075f71650e551b52fe48eaa050b7b8d09eae1d9c7824ceb264a57d626bba60ab8b4e7450
+authV3_lerabondarenko.zkey:3ceb3b70842df0b39ec461cb5ee1f015a146b15c678522ad17da8851d1360cb7c994b9fb4415520e9eefb995f1f686f48fc95aec6b92ee32f06b4e56ff5cf700
 ```
 
 ### Last contribution
 ```
-
+authV3_lerabondarenko.zkey:3ceb3b70842df0b39ec461cb5ee1f015a146b15c678522ad17da8851d1360cb7c994b9fb4415520e9eefb995f1f686f48fc95aec6b92ee32f06b4e56ff5cf700
 ```
